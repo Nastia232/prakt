@@ -1,0 +1,19 @@
+body{
+    background: rgb(197, 156, 184);
+     
+
+}
+
+
+
+h1{
+   color: rgb(62, 68, 75); 
+   border: solid;
+   border-radius: 1,5;
+
+}
+
+.img{
+   float: left;
+   border: lavender;
+}
